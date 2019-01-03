@@ -9,4 +9,4 @@ LeetCode 解题历程
 
 - **[两数相加进阶版](https://leetcode-cn.com/problems/add-two-numbers/) Medium**
 
-    
+    链表越界很危险。
